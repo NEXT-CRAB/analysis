@@ -1,0 +1,4 @@
+tpx
+vispy
+numpy
+matplotlib
